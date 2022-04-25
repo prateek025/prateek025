@@ -2,7 +2,7 @@
 
 I am a Data Scientist with a background in Engineering and Business. I hold a B.Tech in Electronics Engineering, a Masters in Analytics, and an MBA. Currently, I work as a Data Scientist @ CIBC, where I do statistical analysis and build machine learning models to solve different 'business puzzles'. 
 
-Thank you for visiting my Github page. Feel free to take a look and explore the code-repositories for some of my *toy-projects/tutorials* on different Machine Learning topics 🙂. The most notable include :
+Thank you for visiting my GitHub page. Feel free to take a look and explore the code-repositories for some of my *toy-projects/tutorials* on different Machine Learning topics 🙂. The most notable include :
 - [Machine Learning in PySpark/Databricks](https://github.com/prateek025/ml-in-pyspark)
 - [Image Classification using Deep Neural Network](https://github.com/prateek025/image-classification-nn)
 - [Image Classification using Transfer Learning in Convolutional Neural Network](https://github.com/prateek025/transfer-learning-cnn)
