@@ -9,6 +9,7 @@ Thank you for visiting my GitHub page. Feel free to take a look and explore the 
 - [Time Series Forecasting projects](https://github.com/prateek025/time-series-repo)
 - [Natural Language Processing using Neural Network](https://github.com/prateek025/nlp-using-nn)
 - [Natural Language Processing using PyCaret](https://github.com/prateek025/nlp-using-pycaret)
+- [Supervised Machine Learning projects](https://github.com/prateek025/supervised-ml-repo) 
 - [Unsupervised Machine Learning projects](https://github.com/prateek025/unsupervised-ml-repo)
 
 ### You can also find me at:
